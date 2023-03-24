@@ -65,3 +65,5 @@ stopBtn.addEventListener('click', () => {
 resetBtn.addEventListener('click', () => {
     resetTimer();
 });
+
+
